@@ -1,5 +1,3 @@
-# Derivative-Analysis-Manual-vs-SymPy
-
 # Function Derivatives with Python and SymPy
 
 This project demonstrates **manual and computational approaches** to finding derivatives of mathematical functions using **Python’s SymPy library**.  
@@ -72,8 +70,9 @@ plt.show()
 
 Below is an example of the function, its tangent, and normal line plotted using Matplotlib:
 
-<p align="center"> <img src="images/derivative_plot.png" alt="Derivative Graph Example" width="600"/> </p>
----
+<p align="center"> <img src="Figure_1.png" alt="Derivative Graph Example" width="600"/> </p>
+
+
 ## 🔧 Requirements
 
 Make sure you have Python 3 installed and the following packages:
@@ -116,6 +115,6 @@ pip install sympy numpy matplotlib
 - [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## 👨‍💻 Author
-Tegar Adhi Nugraha Christ During
-[Tegar](https://github.com/TegarAdh)
-🗓️ Created: October 2025
+Tegar Adhi Nugraha Christ During <br>
+[Github](https://github.com/TegarAdh) <br>
+🗓️ Created: October 2025 <br>
